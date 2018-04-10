@@ -121,7 +121,7 @@ break;
 NSLog(@"A9");
 
 break;
-}else if(objc_getClass("AGX10FamilyRenderContext")){
+}else if(objc_getClass("AGXA10FamilyRenderContext")){
 %init(A10)
 NSLog(@"A10");
 
